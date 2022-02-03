@@ -9,4 +9,6 @@ de Desenvolvimento Web utilizando HTML5, CSS3 e javascript.
 
 as imagens do carrousel estão desproporcionadas, provavelmente terei que procurar imagens padronizadas de tamanho ou ajustar cada um telas há um tamanho que fique elegante. 
 
+![netflix](https://user-images.githubusercontent.com/24817323/152438937-e8befcd6-2fd9-40fb-9929-e39aa724566e.PNG)
+
 
